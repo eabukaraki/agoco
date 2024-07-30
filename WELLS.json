@@ -1,0 +1,153 @@
+{ 
+                                "type": "FeatureCollection",
+                                "features": [ { "type": "Feature",
+                   "geometry": {"type": "Point", "coordinates": [10.5606685,31.3225457]},
+                   "properties": {"well": "A1-NC100","concession": "AGOCO-NC100"}
+                 },{ "type": "Feature",
+                   "geometry": {"type": "Point", "coordinates": [10.7847164,30.7313238]},
+                   "properties": {"well": "B1-NC100","concession": "AGOCO-NC100"}
+                 },{ "type": "Feature",
+                   "geometry": {"type": "Point", "coordinates": [10.6755903,31.5082973]},
+                   "properties": {"well": "C1-NC100","concession": "AGOCO-NC100"}
+                 },{ "type": "Feature",
+                   "geometry": {"type": "Point", "coordinates": [10.6843882,31.5169714]},
+                   "properties": {"well": "C2-NC100","concession": "AGOCO-NC100"}
+                 },{ "type": "Feature",
+                   "geometry": {"type": "Point", "coordinates": [10.6610548,31.5037475]},
+                   "properties": {"well": "C3-NC100","concession": "AGOCO-NC100"}
+                 },{ "type": "Feature",
+                   "geometry": {"type": "Point", "coordinates": [10.6410415,31.494676]},
+                   "properties": {"well": "C4-NC100","concession": "AGOCO-NC100"}
+                 },{ "type": "Feature",
+                   "geometry": {"type": "Point", "coordinates": [10.784293,31.0839708]},
+                   "properties": {"well": "D1-NC100","concession": "AGOCO-NC100"}
+                 },{ "type": "Feature",
+                   "geometry": {"type": "Point", "coordinates": [10.362668,31.5938418]},
+                   "properties": {"well": "E1-NC100","concession": "AGOCO-NC100"}
+                 },{ "type": "Feature",
+                   "geometry": {"type": "Point", "coordinates": [10.6057415,31.6629309]},
+                   "properties": {"well": "F2-NC100","concession": "AGOCO-NC100"}
+                 },{ "type": "Feature",
+                   "geometry": {"type": "Point", "coordinates": [10.6431847,31.6578124]},
+                   "properties": {"well": "F3-NC100","concession": "AGOCO-NC100"}
+                 },{ "type": "Feature",
+                   "geometry": {"type": "Point", "coordinates": [10.6383725,31.6422478]},
+                   "properties": {"well": "F4-NC100","concession": "AGOCO-NC100"}
+                 },{ "type": "Feature",
+                   "geometry": {"type": "Point", "coordinates": [10.7107201,31.4814039]},
+                   "properties": {"well": "G2-NC100","concession": "AGOCO-NC100"}
+                 },{ "type": "Feature",
+                   "geometry": {"type": "Point", "coordinates": [10.7215669,31.484807]},
+                   "properties": {"well": "G3-NC100","concession": "AGOCO-NC100"}
+                 },{ "type": "Feature",
+                   "geometry": {"type": "Point", "coordinates": [10.6644534,31.5927991]},
+                   "properties": {"well": "H1-NC100","concession": "AGOCO-NC100"}
+                 },{ "type": "Feature",
+                   "geometry": {"type": "Point", "coordinates": [10.6912037,31.5900706]},
+                   "properties": {"well": "H2-NC100","concession": "AGOCO-NC100"}
+                 },{ "type": "Feature",
+                   "geometry": {"type": "Point", "coordinates": [10.6736846,31.5956647]},
+                   "properties": {"well": "H3-NC100","concession": "AGOCO-NC100"}
+                 },{ "type": "Feature",
+                   "geometry": {"type": "Point", "coordinates": [10.5694123,31.6054795]},
+                   "properties": {"well": "K1-NC100","concession": "AGOCO-NC100"}
+                 },{ "type": "Feature",
+                   "geometry": {"type": "Point", "coordinates": [10.9670003,31.3565526]},
+                   "properties": {"well": "L1-NC100","concession": "AGOCO-NC100"}
+                 },{ "type": "Feature",
+                   "geometry": {"type": "Point", "coordinates": [10.9846711,31.3599043]},
+                   "properties": {"well": "L2-NC100","concession": "AGOCO-NC100"}
+                 },{ "type": "Feature",
+                   "geometry": {"type": "Point", "coordinates": [10.9725268,31.3373514]},
+                   "properties": {"well": "L3-NC100","concession": "AGOCO-NC100"}
+                 },{ "type": "Feature",
+                   "geometry": {"type": "Point", "coordinates": [10.9813896,31.3554567]},
+                   "properties": {"well": "L4-NC100","concession": "AGOCO-NC100"}
+                 },{ "type": "Feature",
+                   "geometry": {"type": "Point", "coordinates": [10.4406923,31.6649301]},
+                   "properties": {"well": "M1-NC100","concession": "AGOCO-NC100"}
+                 },{ "type": "Feature",
+                   "geometry": {"type": "Point", "coordinates": [10.7214499,31.6873202]},
+                   "properties": {"well": "N1-NC100","concession": "AGOCO-NC100"}
+                 },{ "type": "Feature",
+                   "geometry": {"type": "Point", "coordinates": [10.5532841,31.3604156]},
+                   "properties": {"well": "O1-NC100","concession": "AGOCO-NC100"}
+                 },{ "type": "Feature",
+                   "geometry": {"type": "Point", "coordinates": [10.6687139,31.2046245]},
+                   "properties": {"well": "P2-NC100","concession": "AGOCO-NC100"}
+                 },{ "type": "Feature",
+                   "geometry": {"type": "Point", "coordinates": [10.6491747,31.3368932]},
+                   "properties": {"well": "Q2-NC100","concession": "AGOCO-NC100"}
+                 },{ "type": "Feature",
+                   "geometry": {"type": "Point", "coordinates": [10.662444,31.3330423]},
+                   "properties": {"well": "Q3-NC100","concession": "AGOCO-NC100"}
+                 },{ "type": "Feature",
+                   "geometry": {"type": "Point", "coordinates": [10.6413257,31.3893002]},
+                   "properties": {"well": "S1-NC100","concession": "AGOCO-NC100"}
+                 },{ "type": "Feature",
+                   "geometry": {"type": "Point", "coordinates": [10.606831,31.3949144]},
+                   "properties": {"well": "S2-NC100","concession": "AGOCO-NC100"}
+                 },{ "type": "Feature",
+                   "geometry": {"type": "Point", "coordinates": [10.6442143,31.3961056]},
+                   "properties": {"well": "S3-NC100","concession": "AGOCO-NC100"}
+                 },{ "type": "Feature",
+                   "geometry": {"type": "Point", "coordinates": [10.614262,31.3895331]},
+                   "properties": {"well": "S4-NC100","concession": "AGOCO-NC100"}
+                 },{ "type": "Feature",
+                   "geometry": {"type": "Point", "coordinates": [10.7388937,31.4510266]},
+                   "properties": {"well": "T1-NC100","concession": "AGOCO-NC100"}
+                 },{ "type": "Feature",
+                   "geometry": {"type": "Point", "coordinates": [10.7123848,31.6010345]},
+                   "properties": {"well": "U1-NC100","concession": "AGOCO-NC100"}
+                 },{ "type": "Feature",
+                   "geometry": {"type": "Point", "coordinates": [10.7548577,30.9295556]},
+                   "properties": {"well": "V1-NC100","concession": "AGOCO-NC100"}
+                 },{ "type": "Feature",
+                   "geometry": {"type": "Point", "coordinates": [10.742689,30.9320556]},
+                   "properties": {"well": "V2-NC100","concession": "AGOCO-NC100"}
+                 },{ "type": "Feature",
+                   "geometry": {"type": "Point", "coordinates": [10.7780013,31.0923913]},
+                   "properties": {"well": "Y1-NC100","concession": "AGOCO-NC100"}
+                 },{ "type": "Feature",
+                   "geometry": {"type": "Point", "coordinates": [10.6279733,31.6458339]},
+                   "properties": {"well": "F1-NC100","concession": "AGOCO-NC100"}
+                 },{ "type": "Feature",
+                   "geometry": {"type": "Point", "coordinates": [10.559893,31.7287027]},
+                   "properties": {"well": "J1-NC100","concession": "AGOCO-NC100"}
+                 },{ "type": "Feature",
+                   "geometry": {"type": "Point", "coordinates": [10.6556374,31.3518145]},
+                   "properties": {"well": "Q1-NC100","concession": "AGOCO-NC100"}
+                 },{ "type": "Feature",
+                   "geometry": {"type": "Point", "coordinates": [10.6783361,31.1375712]},
+                   "properties": {"well": "X1-NC100","concession": "AGOCO-NC100"}
+                 },{ "type": "Feature",
+                   "geometry": {"type": "Point", "coordinates": [10.5672418,31.3644946]},
+                   "properties": {"well": "O2-NC100","concession": "AGOCO-NC100"}
+                 },{ "type": "Feature",
+                   "geometry": {"type": "Point", "coordinates": [10.8729257,31.264935]},
+                   "properties": {"well": "R1-NC100","concession": "AGOCO-NC100"}
+                 },{ "type": "Feature",
+                   "geometry": {"type": "Point", "coordinates": [10.7414985,31.4592875]},
+                   "properties": {"well": "T2-NC100","concession": "AGOCO-NC100"}
+                 },{ "type": "Feature",
+                   "geometry": {"type": "Point", "coordinates": [10.5938994,30.8828925]},
+                   "properties": {"well": "Z1-NC100","concession": "AGOCO-NC100"}
+                 },{ "type": "Feature",
+                   "geometry": {"type": "Point", "coordinates": [10.581052,30.8801606]},
+                   "properties": {"well": "Z3-NC100","concession": "AGOCO-NC100"}
+                 },{ "type": "Feature",
+                   "geometry": {"type": "Point", "coordinates": [10.6684648,31.1963728]},
+                   "properties": {"well": "P1-NC100","concession": "AGOCO-NC100"}
+                 },{ "type": "Feature",
+                   "geometry": {"type": "Point", "coordinates": [10.7232414,31.4931634]},
+                   "properties": {"well": "G1-NC100","concession": "AGOCO-NC100"}
+                 },{ "type": "Feature",
+                   "geometry": {"type": "Point", "coordinates": [10.9886986,31.1958244]},
+                   "properties": {"well": "I1-NC100","concession": "AGOCO-NC100"}
+                 },{ "type": "Feature",
+                   "geometry": {"type": "Point", "coordinates": [10.6292072,30.8712928]},
+                   "properties": {"well": "Z2-NC100","concession": "AGOCO-NC100"}
+                 },{ "type": "Feature",
+                   "geometry": {"type": "Point", "coordinates": [10.9706906,31.3444039]},
+                   "properties": {"well": "L5-NC100","concession": "AGOCO-NC100"}
+                 }] }
