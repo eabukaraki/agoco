@@ -150,7 +150,7 @@
                  },{ "type": "Feature",
                    "geometry": {"type": "Point", "coordinates": [10.9706906,31.3444039]},
                    "properties": {"well": "L5-NC100","concession": "AGOCO-NC100"}
-                 },,{ "type": "Feature",
+                 },{ "type": "Feature",
                    "geometry": {"type": "Point", "coordinates": [18.7032459,28.5873861]},
                    "properties": {"well": "Z9-47","concession": "AGOCO-47"}
                  },{ "type": "Feature",
