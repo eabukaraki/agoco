@@ -150,6 +150,206 @@
                  },{ "type": "Feature",
                    "geometry": {"type": "Point", "coordinates": [10.9706906,31.3444039]},
                    "properties": {"well": "L5-NC100","concession": "AGOCO-NC100"}
+                 },{ 
+                                "type": "FeatureCollection",
+                                "features": [ { "type": "Feature",
+                   "geometry": {"type": "Point", "coordinates": [22.3140143,28.0181384]},
+                   "properties": {"well": "DD32-80","concession": "AGOCO-80"}
+                 },{ "type": "Feature",
+                   "geometry": {"type": "Point", "coordinates": [22.2827339,28.02721]},
+                   "properties": {"well": "DD43-80","concession": "AGOCO-80"}
+                 },{ "type": "Feature",
+                   "geometry": {"type": "Point", "coordinates": [22.3130022,28.0526499]},
+                   "properties": {"well": "DD3-80","concession": "AGOCO-80"}
+                 },{ "type": "Feature",
+                   "geometry": {"type": "Point", "coordinates": [22.283009,28.0592087]},
+                   "properties": {"well": "DD5-80","concession": "AGOCO-80"}
+                 },{ "type": "Feature",
+                   "geometry": {"type": "Point", "coordinates": [22.2243815,28.0839291]},
+                   "properties": {"well": "DD7-80","concession": "AGOCO-80"}
+                 },{ "type": "Feature",
+                   "geometry": {"type": "Point", "coordinates": [22.2674533,28.0858549]},
+                   "properties": {"well": "DD9-80","concession": "AGOCO-80"}
+                 },{ "type": "Feature",
+                   "geometry": {"type": "Point", "coordinates": [22.3084272,28.0097997]},
+                   "properties": {"well": "DD10-80","concession": "AGOCO-80"}
+                 },{ "type": "Feature",
+                   "geometry": {"type": "Point", "coordinates": [22.2898493,28.0269618]},
+                   "properties": {"well": "DD12-80","concession": "AGOCO-80"}
+                 },{ "type": "Feature",
+                   "geometry": {"type": "Point", "coordinates": [22.2785677,28.0373413]},
+                   "properties": {"well": "DD15-80","concession": "AGOCO-80"}
+                 },{ "type": "Feature",
+                   "geometry": {"type": "Point", "coordinates": [22.2711811,28.0549673]},
+                   "properties": {"well": "DD16-80","concession": "AGOCO-80"}
+                 },{ "type": "Feature",
+                   "geometry": {"type": "Point", "coordinates": [22.2714629,28.0726391]},
+                   "properties": {"well": "DD19-80","concession": "AGOCO-80"}
+                 },{ "type": "Feature",
+                   "geometry": {"type": "Point", "coordinates": [22.3286452,28.007452]},
+                   "properties": {"well": "DD29-80","concession": "AGOCO-80"}
+                 },{ "type": "Feature",
+                   "geometry": {"type": "Point", "coordinates": [22.3164732,28.0020269]},
+                   "properties": {"well": "DD33-80","concession": "AGOCO-80"}
+                 },{ "type": "Feature",
+                   "geometry": {"type": "Point", "coordinates": [22.2755,28.00689]},
+                   "properties": {"well": "DD34H-80","concession": "AGOCO-80"}
+                 },{ "type": "Feature",
+                   "geometry": {"type": "Point", "coordinates": [22.28531,28.03426]},
+                   "properties": {"well": "DD39H-80","concession": "AGOCO-80"}
+                 },{ "type": "Feature",
+                   "geometry": {"type": "Point", "coordinates": [22.1905884,28.2984206]},
+                   "properties": {"well": "I2-80","concession": "AGOCO-80"}
+                 },{ "type": "Feature",
+                   "geometry": {"type": "Point", "coordinates": [21.542304,28.1845381]},
+                   "properties": {"well": "O7-80","concession": "AGOCO-80"}
+                 },{ "type": "Feature",
+                   "geometry": {"type": "Point", "coordinates": [21.9036531,28.3246492]},
+                   "properties": {"well": "Z1-80","concession": "AGOCO-80"}
+                 },{ "type": "Feature",
+                   "geometry": {"type": "Point", "coordinates": [21.9149646,28.3183335]},
+                   "properties": {"well": "Z3-80","concession": "AGOCO-80"}
+                 },{ "type": "Feature",
+                   "geometry": {"type": "Point", "coordinates": [21.907389,28.3225591]},
+                   "properties": {"well": "Z5-80","concession": "AGOCO-80"}
+                 },{ "type": "Feature",
+                   "geometry": {"type": "Point", "coordinates": [21.9281746,28.3274586]},
+                   "properties": {"well": "Z6H-80","concession": "AGOCO-80"}
+                 },{ "type": "Feature",
+                   "geometry": {"type": "Point", "coordinates": [21.918079,28.3261846]},
+                   "properties": {"well": "Z7-80","concession": "AGOCO-80"}
+                 },{ "type": "Feature",
+                   "geometry": {"type": "Point", "coordinates": [22.0337723,28.3820497]},
+                   "properties": {"well": "EE3-80","concession": "AGOCO-80"}
+                 },{ "type": "Feature",
+                   "geometry": {"type": "Point", "coordinates": [22.0572677,28.3954412]},
+                   "properties": {"well": "EE5-80","concession": "AGOCO-80"}
+                 },{ "type": "Feature",
+                   "geometry": {"type": "Point", "coordinates": [22.0455749,28.3840573]},
+                   "properties": {"well": "EE6-80","concession": "AGOCO-80"}
+                 },{ "type": "Feature",
+                   "geometry": {"type": "Point", "coordinates": [22.1739679,28.2288491]},
+                   "properties": {"well": "HH1-80","concession": "AGOCO-80"}
+                 },{ "type": "Feature",
+                   "geometry": {"type": "Point", "coordinates": [22.178267,28.2368601]},
+                   "properties": {"well": "HH4-80","concession": "AGOCO-80"}
+                 },{ "type": "Feature",
+                   "geometry": {"type": "Point", "coordinates": [22.1522316,28.3159736]},
+                   "properties": {"well": "KK3-80","concession": "AGOCO-80"}
+                 },{ "type": "Feature",
+                   "geometry": {"type": "Point", "coordinates": [22.1641734,28.3006098]},
+                   "properties": {"well": "KK4-80","concession": "AGOCO-80"}
+                 },{ "type": "Feature",
+                   "geometry": {"type": "Point", "coordinates": [22.268973,28.0179858]},
+                   "properties": {"well": "DD8-80","concession": "AGOCO-80"}
+                 },{ "type": "Feature",
+                   "geometry": {"type": "Point", "coordinates": [22.2778918,28.0195402]},
+                   "properties": {"well": "DD13-80","concession": "AGOCO-80"}
+                 },{ "type": "Feature",
+                   "geometry": {"type": "Point", "coordinates": [22.2599457,28.0558827]},
+                   "properties": {"well": "DD24-80","concession": "AGOCO-80"}
+                 },{ "type": "Feature",
+                   "geometry": {"type": "Point", "coordinates": [22.2615768,28.0457994]},
+                   "properties": {"well": "DD35-80","concession": "AGOCO-80"}
+                 },{ "type": "Feature",
+                   "geometry": {"type": "Point", "coordinates": [22.27108,28.06365]},
+                   "properties": {"well": "DD21H-80","concession": "AGOCO-80"}
+                 },{ "type": "Feature",
+                   "geometry": {"type": "Point", "coordinates": [22.2740756,28.0336952]},
+                   "properties": {"well": "DD6-80","concession": "AGOCO-80"}
+                 },{ "type": "Feature",
+                   "geometry": {"type": "Point", "coordinates": [22.29081,28.01911]},
+                   "properties": {"well": "DD36H-80","concession": "AGOCO-80"}
+                 },{ "type": "Feature",
+                   "geometry": {"type": "Point", "coordinates": [22.2975402,28.0578647]},
+                   "properties": {"well": "DD28-80","concession": "AGOCO-80"}
+                 },{ "type": "Feature",
+                   "geometry": {"type": "Point", "coordinates": [22.2797746,27.998707]},
+                   "properties": {"well": "DD18-80","concession": "AGOCO-80"}
+                 },{ "type": "Feature",
+                   "geometry": {"type": "Point", "coordinates": [22.2709796,28.0261566]},
+                   "properties": {"well": "DD38-80","concession": "AGOCO-80"}
+                 },{ "type": "Feature",
+                   "geometry": {"type": "Point", "coordinates": [22.2701532,28.0433768]},
+                   "properties": {"well": "DD37-80","concession": "AGOCO-80"}
+                 },{ "type": "Feature",
+                   "geometry": {"type": "Point", "coordinates": [22.2946736,28.0143801]},
+                   "properties": {"well": "DD44H-80","concession": "AGOCO-80"}
+                 },{ "type": "Feature",
+                   "geometry": {"type": "Point", "coordinates": [22.3082743,28.0316528]},
+                   "properties": {"well": "DD2-80","concession": "AGOCO-80"}
+                 },{ "type": "Feature",
+                   "geometry": {"type": "Point", "coordinates": [22.3010145,28.045495]},
+                   "properties": {"well": "DD31-80","concession": "AGOCO-80"}
+                 },{ "type": "Feature",
+                   "geometry": {"type": "Point", "coordinates": [22.27188,28.08166]},
+                   "properties": {"well": "DD23H-80","concession": "AGOCO-80"}
+                 },{ "type": "Feature",
+                   "geometry": {"type": "Point", "coordinates": [22.25977,28.03694]},
+                   "properties": {"well": "DD20H-80","concession": "AGOCO-80"}
+                 },{ "type": "Feature",
+                   "geometry": {"type": "Point", "coordinates": [22.2467671,28.0908555]},
+                   "properties": {"well": "DD27-80","concession": "AGOCO-80"}
+                 },{ "type": "Feature",
+                   "geometry": {"type": "Point", "coordinates": [21.5300629,28.1888925]},
+                   "properties": {"well": "O1-80","concession": "AGOCO-80"}
+                 },{ "type": "Feature",
+                   "geometry": {"type": "Point", "coordinates": [22.2007605,28.2194592]},
+                   "properties": {"well": "HH3-80","concession": "AGOCO-80"}
+                 },{ "type": "Feature",
+                   "geometry": {"type": "Point", "coordinates": [22.2841019,28.0072932]},
+                   "properties": {"well": "DD41H-80","concession": "AGOCO-80"}
+                 },{ "type": "Feature",
+                   "geometry": {"type": "Point", "coordinates": [22.0523134,28.390235]},
+                   "properties": {"well": "EE1-80","concession": "AGOCO-80"}
+                 },{ "type": "Feature",
+                   "geometry": {"type": "Point", "coordinates": [22.2997778,28.0185922]},
+                   "properties": {"well": "DD11-80","concession": "AGOCO-80"}
+                 },{ "type": "Feature",
+                   "geometry": {"type": "Point", "coordinates": [22.2560328,28.0845023]},
+                   "properties": {"well": "DD14-80","concession": "AGOCO-80"}
+                 },{ "type": "Feature",
+                   "geometry": {"type": "Point", "coordinates": [22.2939525,28.0722644]},
+                   "properties": {"well": "DD26-80","concession": "AGOCO-80"}
+                 },{ "type": "Feature",
+                   "geometry": {"type": "Point", "coordinates": [22.29178,28.03691]},
+                   "properties": {"well": "DD30H-80","concession": "AGOCO-80"}
+                 },{ "type": "Feature",
+                   "geometry": {"type": "Point", "coordinates": [22.276132,28.0122309]},
+                   "properties": {"well": "DD40H-80","concession": "AGOCO-80"}
+                 },{ "type": "Feature",
+                   "geometry": {"type": "Point", "coordinates": [22.2529308,28.0460941]},
+                   "properties": {"well": "DD42H-80","concession": "AGOCO-80"}
+                 },{ "type": "Feature",
+                   "geometry": {"type": "Point", "coordinates": [22.30321,28.00552]},
+                   "properties": {"well": "DD45H-80","concession": "AGOCO-80"}
+                 },{ "type": "Feature",
+                   "geometry": {"type": "Point", "coordinates": [21.9034829,28.3154308]},
+                   "properties": {"well": "Z2-80","concession": "AGOCO-80"}
+                 },{ "type": "Feature",
+                   "geometry": {"type": "Point", "coordinates": [22.0661251,28.3963314]},
+                   "properties": {"well": "EE4-80","concession": "AGOCO-80"}
+                 },{ "type": "Feature",
+                   "geometry": {"type": "Point", "coordinates": [22.1720854,28.3082103]},
+                   "properties": {"well": "KK1-80","concession": "AGOCO-80"}
+                 },{ "type": "Feature",
+                   "geometry": {"type": "Point", "coordinates": [22.1706206,28.295973]},
+                   "properties": {"well": "KK2-80","concession": "AGOCO-80"}
+                 },{ "type": "Feature",
+                   "geometry": {"type": "Point", "coordinates": [22.2797748,28.0462768]},
+                   "properties": {"well": "DD22-80","concession": "AGOCO-80"}
+                 },{ "type": "Feature",
+                   "geometry": {"type": "Point", "coordinates": [22.1927921,28.2289137]},
+                   "properties": {"well": "HH2-80","concession": "AGOCO-80"}
+                 },{ "type": "Feature",
+                   "geometry": {"type": "Point", "coordinates": [22.2593955,28.0279353]},
+                   "properties": {"well": "DD17-80","concession": "AGOCO-80"}
+                 },{ "type": "Feature",
+                   "geometry": {"type": "Point", "coordinates": [22.2896542,28.0100987]},
+                   "properties": {"well": "DD4-80","concession": "AGOCO-80"}
+                 },{ "type": "Feature",
+                   "geometry": {"type": "Point", "coordinates": [21.9076433,28.3108836]},
+                   "properties": {"well": "Z8-80","concession": "AGOCO-80"}
                  },{ "type": "Feature",
                    "geometry": {"type": "Point", "coordinates": [18.7032459,28.5873861]},
                    "properties": {"well": "Z9-47","concession": "AGOCO-47"}
