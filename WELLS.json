@@ -18282,7 +18282,7 @@
       },
       "properties": {
         "well": "A1-105",
-        "concession": ""
+        "concession": "AGOCO-MAJID"
       }
     },
     {
@@ -18296,7 +18296,7 @@
       },
       "properties": {
         "well": "A3-105",
-        "concession": ""
+        "concession": "AGOCO-MAJID"
       }
     },
     {
@@ -18310,7 +18310,7 @@
       },
       "properties": {
         "well": "A4-105",
-        "concession": ""
+        "concession": "AGOCO-MAJID"
       }
     },
     {
@@ -18324,7 +18324,7 @@
       },
       "properties": {
         "well": "A5-105",
-        "concession": ""
+        "concession": "AGOCO-MAJID"
       }
     },
     {
@@ -18338,7 +18338,7 @@
       },
       "properties": {
         "well": "A6-105",
-        "concession": ""
+        "concession": "AGOCO-MAJID"
       }
     },
     {
@@ -18352,7 +18352,7 @@
       },
       "properties": {
         "well": "A10-105",
-        "concession": ""
+        "concession": "AGOCO-MAJID"
       }
     },
     {
@@ -18366,7 +18366,7 @@
       },
       "properties": {
         "well": "C1-105",
-        "concession": ""
+        "concession": "AGOCO-MAJID"
       }
     },
     {
@@ -18479,6 +18479,930 @@
       "properties": {
         "well": "Z6H-80",
         "concession": "AGOCO-80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.918079,
+          28.3261846
+        ]
+      },
+      "properties": {
+        "well": "Z7-80",
+        "concession": "AGOCO-80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.9076433,
+          28.3108836
+        ]
+      },
+      "properties": {
+        "well": "Z8-80",
+        "concession": "AGOCO-80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.0523134,
+          28.390235
+        ]
+      },
+      "properties": {
+        "well": "EE1-80",
+        "concession": "AGOCO-80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.0337723,
+          28.3820497
+        ]
+      },
+      "properties": {
+        "well": "EE3-80",
+        "concession": "AGOCO-80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.0661251,
+          28.3963314
+        ]
+      },
+      "properties": {
+        "well": "EE4-80",
+        "concession": "AGOCO-80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.0572677,
+          28.3954412
+        ]
+      },
+      "properties": {
+        "well": "EE5-80",
+        "concession": "AGOCO-80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.0455749,
+          28.3840573
+        ]
+      },
+      "properties": {
+        "well": "EE6-80",
+        "concession": "AGOCO-80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.1739679,
+          28.2288491
+        ]
+      },
+      "properties": {
+        "well": "HH1-80",
+        "concession": "AGOCO-80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.1927921,
+          28.2289137
+        ]
+      },
+      "properties": {
+        "well": "HH2-80",
+        "concession": "AGOCO-80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.2007605,
+          28.2194592
+        ]
+      },
+      "properties": {
+        "well": "HH3-80",
+        "concession": "AGOCO-80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.178267,
+          28.2368601
+        ]
+      },
+      "properties": {
+        "well": "HH4-80",
+        "concession": "AGOCO-80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.1720854,
+          28.3082103
+        ]
+      },
+      "properties": {
+        "well": "KK1-80",
+        "concession": "AGOCO-80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.1706206,
+          28.295973
+        ]
+      },
+      "properties": {
+        "well": "KK2-80",
+        "concession": "AGOCO-80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.1522316,
+          28.3159736
+        ]
+      },
+      "properties": {
+        "well": "KK3-80",
+        "concession": "AGOCO-80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.1641734,
+          28.3006098
+        ]
+      },
+      "properties": {
+        "well": "KK4-80",
+        "concession": "AGOCO-80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.922212,
+          28.3344549
+        ]
+      },
+      "properties": {
+        "well": "A12-105",
+        "concession": "AGOCO-MAJID"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.2300589,
+          28.141584
+        ]
+      },
+      "properties": {
+        "well": "YY1-80",
+        "concession": "AGOCO-MAJID"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.9151501,
+          28.3093806
+        ]
+      },
+      "properties": {
+        "well": "Z4-80",
+        "concession": "AGOCO-MAJID"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.2243753,
+          28.214474
+        ]
+      },
+      "properties": {
+        "well": "HH5-80",
+        "concession": "AGOCO-MAJID"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.2048446,
+          28.2990421
+        ]
+      },
+      "properties": {
+        "well": "I3-80",
+        "concession": "AGOCO-MAJID"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.1697203,
+          28.1803441
+        ]
+      },
+      "properties": {
+        "well": "UU3-80",
+        "concession": "AGOCO-MAJID"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.216011,
+          28.1570516
+        ]
+      },
+      "properties": {
+        "well": "UU2-80",
+        "concession": "AGOCO-MAJID"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.9660126,
+          28.4595834
+        ]
+      },
+      "properties": {
+        "well": "C3-105",
+        "concession": "AGOCO-MAJID"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.0776869,
+          28.3770494
+        ]
+      },
+      "properties": {
+        "well": "EE2-80",
+        "concession": "AGOCO-MAJID"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.9542,
+          28.38481
+        ]
+      },
+      "properties": {
+        "well": "A2-105",
+        "concession": "AGOCO-MAJID"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.198551,
+          28.1612847
+        ]
+      },
+      "properties": {
+        "well": "UU1-80",
+        "concession": "AGOCO-MAJID"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.215544,
+          28.2384767
+        ]
+      },
+      "properties": {
+        "well": "HH6-80",
+        "concession": "AGOCO-MAJID"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.1922333,
+          28.2548805
+        ]
+      },
+      "properties": {
+        "well": "HH7-80",
+        "concession": "AGOCO-MAJID"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.9663426,
+          28.3777128
+        ]
+      },
+      "properties": {
+        "well": "A11-105",
+        "concession": "AGOCO-MAJID"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.9732693,
+          28.3758668
+        ]
+      },
+      "properties": {
+        "well": "A7-105",
+        "concession": "AGOCO-MAJID"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.5482071,
+          28.197091
+        ]
+      },
+      "properties": {
+        "well": "O5-80",
+        "concession": "AGOCO-MAJID"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.9362148,
+          28.3550198
+        ]
+      },
+      "properties": {
+        "well": "A8-105",
+        "concession": "AGOCO-MAJID"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.9827311,
+          28.3816415
+        ]
+      },
+      "properties": {
+        "well": "A9-105",
+        "concession": "AGOCO-MAJID"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.9236157,
+          28.4613793
+        ]
+      },
+      "properties": {
+        "well": "C2-105",
+        "concession": "AGOCO-MAJID"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.5117102,
+          28.1806391
+        ]
+      },
+      "properties": {
+        "well": "O6-80",
+        "concession": "AGOCO-MAJID"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.1354872,
+          31.4266769
+        ]
+      },
+      "properties": {
+        "well": "A1-NC4",
+        "concession": "AGOCO-NC  4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.1686313,
+          31.3524938
+        ]
+      },
+      "properties": {
+        "well": "A2-NC4",
+        "concession": "AGOCO-NC  4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.1406529,
+          31.3960576
+        ]
+      },
+      "properties": {
+        "well": "A4-NC4",
+        "concession": "AGOCO-NC  4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.1277901,
+          31.4195675
+        ]
+      },
+      "properties": {
+        "well": "A5-NC4",
+        "concession": "AGOCO-NC  4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.1385858,
+          31.3762251
+        ]
+      },
+      "properties": {
+        "well": "A6-NC4",
+        "concession": "AGOCO-NC  4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.1323059,
+          31.3929615
+        ]
+      },
+      "properties": {
+        "well": "A7-NC4",
+        "concession": "AGOCO-NC  4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.1040973,
+          31.3449068
+        ]
+      },
+      "properties": {
+        "well": "B1-NC4",
+        "concession": "AGOCO-NC  4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2351869,
+          31.2433756
+        ]
+      },
+      "properties": {
+        "well": "D1-NC4",
+        "concession": "AGOCO-NC  4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.1465105,
+          31.5262816
+        ]
+      },
+      "properties": {
+        "well": "E1-NC4",
+        "concession": "AGOCO-NC  4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3079781,
+          31.1834721
+        ]
+      },
+      "properties": {
+        "well": "G1-NC4",
+        "concession": "AGOCO-NC  4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.0044948,
+          31.4143558
+        ]
+      },
+      "properties": {
+        "well": "C1-NC4",
+        "concession": "AGOCO-NC  4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.0497192,
+          31.5211197
+        ]
+      },
+      "properties": {
+        "well": "F1-NC4",
+        "concession": "AGOCO-NC  4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2557445,
+          31.3326707
+        ]
+      },
+      "properties": {
+        "well": "H1-NC4",
+        "concession": "AGOCO-NC  4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2114341,
+          31.2323627
+        ]
+      },
+      "properties": {
+        "well": "D2-NC4",
+        "concession": "AGOCO-NC  4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.1554651,
+          31.3411084
+        ]
+      },
+      "properties": {
+        "well": "A3-NC4",
+        "concession": "AGOCO-NC  4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.6318272,
+          28.7588263
+        ]
+      },
+      "properties": {
+        "well": "A1-NC59",
+        "concession": "AGOCO-NC 59"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.6216161,
+          28.7588594
+        ]
+      },
+      "properties": {
+        "well": "A2-NC59",
+        "concession": "AGOCO-NC 59"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.6369187,
+          28.7666088
+        ]
+      },
+      "properties": {
+        "well": "A3-NC59",
+        "concession": "AGOCO-NC 59"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.6420594,
+          28.7587944
+        ]
+      },
+      "properties": {
+        "well": "A4-NC59",
+        "concession": "AGOCO-NC 59"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.6472034,
+          28.7821824
+        ]
+      },
+      "properties": {
+        "well": "A5-NC59",
+        "concession": "AGOCO-NC 59"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.6576019,
+          28.7978029
+        ]
+      },
+      "properties": {
+        "well": "A6-NC59",
+        "concession": "AGOCO-NC 59"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.657784,
+          28.8133853
+        ]
+      },
+      "properties": {
+        "well": "A7-NC59",
+        "concession": "AGOCO-NC 59"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.6319856,
+          28.7978622
+        ]
+      },
+      "properties": {
+        "well": "A8-NC59",
+        "concession": "AGOCO-NC 59"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.6113428,
+          28.7746766
+        ]
+      },
+      "properties": {
+        "well": "A9-NC59",
+        "concession": "AGOCO-NC 59"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.6578197,
+          28.7665803
+        ]
+      },
+      "properties": {
+        "well": "A10-NC59",
+        "concession": "AGOCO-NC 59"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.6677024,
+          28.7664779
+        ]
+      },
+      "properties": {
+        "well": "A11-NC59",
+        "concession": "AGOCO-NC 59"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.6575612,
+          28.7821481
+        ]
+      },
+      "properties": {
+        "well": "A12-NC59",
+        "concession": "AGOCO-NC 59"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0750913,
+          28.8632547
+        ]
+      },
+      "properties": {
+        "well": "B1-NC171",
+        "concession": "AGOCO-NC171"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0774339,
+          28.8516541
+        ]
+      },
+      "properties": {
+        "well": "B2-NC171",
+        "concession": "AGOCO-NC171"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0743044,
+          28.9188547
+        ]
+      },
+      "properties": {
+        "well": "D1-NC171",
+        "concession": "AGOCO-NC171"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0778428,
+          28.931029
+        ]
+      },
+      "properties": {
+        "well": "D2-NC171",
+        "concession": "AGOCO-NC171"
       }
     }
   ]
