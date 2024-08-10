@@ -1,0 +1,229 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.55,
+          29.23
+        ]
+      },
+      "properties": {
+        "field": "NA-91",
+        "concession": "AGOCO-NC102"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.55,
+          29.23
+        ]
+      },
+      "properties": {
+        "field": "NA-91",
+        "concession": "AGOCO-51"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.964944,
+          29.517436
+        ]
+      },
+      "properties": {
+        "field": "HAMADA",
+        "concession": "AGOCO-NC  8A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.964944,
+          29.517436
+        ]
+      },
+      "properties": {
+        "field": "HAMADA",
+        "concession": "AGOCO-NC  5A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.62,
+          31.38
+        ]
+      },
+      "properties": {
+        "field": "SENOWN",
+        "concession": "AGOCO-NC100"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.1957468,
+          29.4671189
+        ]
+      },
+      "properties": {
+        "field": "UMMELFROUD",
+        "concession": "AGOCO-47"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.034836,
+          28.43009
+        ]
+      },
+      "properties": {
+        "field": "BEDA",
+        "concession": "AGOCO-47"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.98642,
+          28.717223
+        ]
+      },
+      "properties": {
+        "field": "NNU-51",
+        "concession": "AGOCO-51"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.49963,
+          27.65115
+        ]
+      },
+      "properties": {
+        "field": "SARIR",
+        "concession": "AGOCO-65"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.340089,
+          27.989611
+        ]
+      },
+      "properties": {
+        "field": "MESSLA",
+        "concession": "AGOCO-65"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.340089,
+          27.989611
+        ]
+      },
+      "properties": {
+        "field": "MESSLA",
+        "concession": "AGOCO-80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.742679,
+          29.2884
+        ]
+      },
+      "properties": {
+        "field": "SAHABI",
+        "concession": "AGOCO-NC 59"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.9507129,
+          28.3755834
+        ]
+      },
+      "properties": {
+        "field": "MAGID",
+        "concession": "AGOCO-80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.9507129,
+          28.3755834
+        ]
+      },
+      "properties": {
+        "field": "MAGID",
+        "concession": "AGOCO-MAJID"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.1444542,
+          31.400669
+        ]
+      },
+      "properties": {
+        "field": "TAHARA",
+        "concession": "AGOCO-NC100"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.417901,
+          28.6911305
+        ]
+      },
+      "properties": {
+        "field": "LATEEF",
+        "concession": "AGOCO-NC 59"
+      }
+    }
+  ]
+}
